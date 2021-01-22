@@ -1,0 +1,22 @@
+{
+  "name": "cs-labs",
+  "version": "1.0.0",
+  "description": "My Git Repository for my CS teaching labs account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinnarohan/cs-labs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinnarohan/cs-labs/issues"
+  },
+  "homepage": "https://github.com/tinnarohan/cs-labs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
